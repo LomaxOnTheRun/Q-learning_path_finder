@@ -32,3 +32,6 @@ The agent will always start on the same place, takes steps until it hits a termi
   - The higher it is, the more likely it is to pick the best step instead of a random step
 - speed
   - Number of steps taken per second
+
+### TODO:
+- Use BFS / A* search to make sure a path is possible to exit
